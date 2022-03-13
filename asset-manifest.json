@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/delivery/static/css/main.27781026.css",
-    "main.js": "/delivery/static/js/main.731377e5.js",
-    "static/media/fundo_main.jpg": "/delivery/static/media/fundo_main.ba26b4ef9aaaef5bdfcd.jpg",
-    "static/media/logo.png": "/delivery/static/media/logo.44a966381aa355a039b2.png",
-    "static/media/figma_principal.png": "/delivery/static/media/figma_principal.a3ddb32f401196919956.png",
-    "static/media/title-sobre.png": "/delivery/static/media/title-sobre.08f7ed9e00e8f079e5e2.png",
-    "index.html": "/delivery/index.html",
-    "main.27781026.css.map": "/delivery/static/css/main.27781026.css.map",
-    "main.731377e5.js.map": "/delivery/static/js/main.731377e5.js.map"
+    "main.css": "/static/css/main.27781026.css",
+    "main.js": "/static/js/main.25222e5f.js",
+    "static/media/fundo_main.jpg": "/static/media/fundo_main.ba26b4ef9aaaef5bdfcd.jpg",
+    "static/media/logo.png": "/static/media/logo.44a966381aa355a039b2.png",
+    "static/media/figma_principal.png": "/static/media/figma_principal.a3ddb32f401196919956.png",
+    "static/media/title-sobre.png": "/static/media/title-sobre.08f7ed9e00e8f079e5e2.png",
+    "index.html": "/index.html",
+    "main.27781026.css.map": "/static/css/main.27781026.css.map",
+    "main.25222e5f.js.map": "/static/js/main.25222e5f.js.map"
   },
   "entrypoints": [
     "static/css/main.27781026.css",
-    "static/js/main.731377e5.js"
+    "static/js/main.25222e5f.js"
   ]
 }
