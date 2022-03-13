@@ -23,6 +23,7 @@ const header = styled.div`
             justify-content: flex-end;
             list-style: none;
             margin: 0 30px;
+            width: 100vw;
             
             li {
                 cursor: pointer;
