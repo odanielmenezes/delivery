@@ -34,7 +34,7 @@ const main_page = styled.div`
 }
 @media (max-width: 450px) {
     img.logo_principal {
-        width: 380px !important;
+        width: 320px !important;
     }
 }
 `

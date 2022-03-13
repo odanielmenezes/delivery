@@ -58,11 +58,11 @@ const sobre_page = styled.div`
 }
 @media (max-width: 450px) {
     .text-sobre {
-        width: 70vw !important;
-        max-height: 55vh !important;
+        width: 55vw !important;
+        max-height: 40vh !important;
     }
     img.title-sobre {
-        width: 400px !important;
+        width: 330px !important;
     }
 }
 `
