@@ -37,9 +37,17 @@ const sobre_page = styled.div`
             max-height: 45vh;
             border: 2px solid #FF4500;
             border-radius: 10px;
-            width: 45%;
+            width: 42%;
             text-align: justify;
             color: #FFF;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+
+            img {
+                width: calc(100% - 20px);
+                margin: 0 auto;
+            }
         }
         .text-sobre::-webkit-scrollbar {
             width: 10px;               /* width of the entire scrollbar */
@@ -51,7 +59,7 @@ const sobre_page = styled.div`
 
         .text-sobre::-webkit-scrollbar-thumb {
             background-color: #000;    /* color of the scroll thumb */
-            border-radius: 20px;       /* roundness of the scroll thumb */
+            border-radius: 10px;       /* roundness of the scroll thumb */
             border: 1px solid #FF4500;  /* creates padding around scroll thumb */
         }
     }

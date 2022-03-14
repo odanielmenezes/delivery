@@ -23,7 +23,6 @@ const header = styled.div`
             justify-content: flex-end;
             list-style: none;
             margin: 0 30px;
-            width: 100vw;
             
             li {
                 cursor: pointer;
@@ -66,8 +65,10 @@ const header = styled.div`
                 display: inline-flex;
                 justify-content: space-around;
                 padding: 0px;
+                width: calc(100vw - 20px);
                 li {
                     font-size: 1.2em;
+                    margin: 0px;
                 }
                 a {
                     display: flex;
