@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/delivery/static/css/main.27781026.css",
-    "main.js": "/delivery/static/js/main.9f956cd5.js",
+    "main.js": "/delivery/static/js/main.a0707638.js",
     "static/media/cozinheiro.jpg": "/delivery/static/media/cozinheiro.78fecbb0a4a6d64b419b.jpg",
     "static/media/fundo_main.jpg": "/delivery/static/media/fundo_main.ba26b4ef9aaaef5bdfcd.jpg",
     "static/media/logo.png": "/delivery/static/media/logo.44a966381aa355a039b2.png",
@@ -9,10 +9,10 @@
     "static/media/title-sobre.png": "/delivery/static/media/title-sobre.08f7ed9e00e8f079e5e2.png",
     "index.html": "/delivery/index.html",
     "main.27781026.css.map": "/delivery/static/css/main.27781026.css.map",
-    "main.9f956cd5.js.map": "/delivery/static/js/main.9f956cd5.js.map"
+    "main.a0707638.js.map": "/delivery/static/js/main.a0707638.js.map"
   },
   "entrypoints": [
     "static/css/main.27781026.css",
-    "static/js/main.9f956cd5.js"
+    "static/js/main.a0707638.js"
   ]
 }
