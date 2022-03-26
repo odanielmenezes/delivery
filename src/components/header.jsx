@@ -3,7 +3,7 @@ import Styled from "../styles/components/header"
 import { Link } from "react-router-dom";
 import Logo from "../assets/logo.png"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faHomeAlt, faInfoCircle, faMenu, faPizzaSlice, faImages, faCog} from "@fortawesome/free-solid-svg-icons";
+import { faHomeAlt, faInfoCircle, faPizzaSlice, faImages, faCog } from "@fortawesome/free-solid-svg-icons";
 
 export function Header() {
     return (
@@ -14,11 +14,11 @@ export function Header() {
                 </div>
                 <nav>
                     <ul>
-                        <li><Link to="/"><FontAwesomeIcon icon={faHomeAlt}/> HOME</Link></li>
-                        <li><Link to="/sobre"><FontAwesomeIcon icon={faInfoCircle}/> SOBRE</Link></li>
-                        <li><Link to="/cardapio"><FontAwesomeIcon icon={faPizzaSlice}/> CARDÁPIO</Link></li>
-                        <li><Link to="/galeria"><FontAwesomeIcon icon={faImages}/> GALERIA</Link></li>
-                        <li><Link to="/faq"><FontAwesomeIcon icon={faCog}/> CONFIGURAÇÕES</Link></li>
+                        <Link to="/"><li><FontAwesomeIcon icon={faHomeAlt}/> HOME</li></Link>
+                        <Link to="/sobre"><li><FontAwesomeIcon icon={faInfoCircle}/> SOBRE</li></Link>
+                        <Link to="/cardapio"><li><FontAwesomeIcon icon={faPizzaSlice}/> CARDÁPIO</li></Link>
+                        <Link to="/galeria"><li><FontAwesomeIcon icon={faImages}/> GALERIA</li></Link>
+                        <Link to="/faq"><li><FontAwesomeIcon icon={faCog}/> CONFIGURAÇÕES</li></Link>
                     </ul>
                 </nav>
             </div>

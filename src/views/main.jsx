@@ -11,9 +11,9 @@ export function Main() {
                 <Header />
                 <div className="principal">
                     <main className="conteudo">
-                         <img src={MainLogo} alt="LogoPrincipal" className="logo_principal" />
+                        <img src={MainLogo} alt="LogoPrincipal" className="logo_principal" />
                     </main>
-                    <a href="https://facebook.com" target="_blank" rel="noreferrer"><MainButton /></a>
+                    <MainButton url="https://odanielmenezes.github.io/portifolio/" />
                 </div>
             </div>
         </Styled>
